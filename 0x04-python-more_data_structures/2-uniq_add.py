@@ -4,4 +4,4 @@ def uniq_add(m_list=[]):
     answer = 0
     for x in set(m_list):
         answer += x
-        return (answer)
+    return (answer)
