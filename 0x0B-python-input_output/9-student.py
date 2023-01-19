@@ -23,4 +23,3 @@ class Student():
         Returns dictionary description with simple data structure
         """
         return self.__dict__
-
